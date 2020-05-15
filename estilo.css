@@ -1,0 +1,124 @@
+
+#menu ul{
+margin: 0%;
+list-style: none;
+}
+
+#menu ul li{
+display: inline;
+padding-left: 1px;
+}
+
+#menu ul li a{
+padding: 10px 5px;
+display: inline-block;
+}
+
+#caixa1{
+position: relative;
+background-color: orangered;
+height: 200px;
+width: 250px;
+left: 290px;
+margin-top: 100px;
+}  
+
+#caixa2{
+position: absolute;
+background-color: maroon;
+height: 200px;
+width: 250px;
+left: 600px;
+top: 25px;
+margin-top: 205px;
+}
+
+#politica{
+position: relative;
+background-color: rgb(240, 229, 229);
+height:200px;
+width:250px;
+left:300px;
+margin-top:10px;
+}  
+
+#economia{
+position: absolute;
+background-color: rgb(240, 229, 229);
+height: 200px;
+width: 250px;
+left: 600px;
+top:443px;
+}  
+
+.financa p{
+position: absolute;
+width: 20%;
+height:150px;
+margin-left: 900px;
+float: right;
+margin-top: 20px;
+background-color: thistle;
+}
+
+.tech p{
+width: 20%;
+height: 150px;
+float: right;
+margin-top: 300px;
+background-color: maroon;
+}
+
+.lado span{
+position: absolute;
+width:15%;
+height: 200px;
+padding-left:900px;
+margin-left: 10px;
+float: right;
+font-size: 10px;
+color: lime;
+}
+
+.sporte div{
+background-color: midnightblue;
+position: absolute;
+float: left;
+height: 150px;
+margin-left: 900px;
+width: 280px;
+margin-top: 180px;
+}
+/*
+.live div{
+background-color: orangered;
+  position: absolute;
+  float: left;
+  height: 110px;
+  margin-left: 900px;
+  width: 280px;
+  margin-top: 340px;
+  }
+*/
+  .esquerdo ul{
+  list-style: none;
+  width:100px;
+  margin-right: 0vh;
+  }
+
+.jogo ul{
+    list-style: none;
+    width:100px;
+    margin-right: 0vh;
+    margin-top: 50px;
+    }
+
+    .caixa3{
+      position: relative;
+      background-color: olivedrab;
+      height: 200px;
+      width: 250px;
+      left: 330px;
+      margin-top: 30px;
+      }  
+      
